@@ -1,2 +1,2 @@
-grupo: Daniel Sánchez García. La próxima si trabajo en grupo, jsja.
+grupo: Daniel Sánchez García y Alexandra Garavito
 Técnicas de Programación y Laboratorio G1. 
